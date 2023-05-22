@@ -1,0 +1,15 @@
+{
+  "name": "07-js-ugl-02-03-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@julija9531/package-ajs": "^1.0.3"
+  }
+}
